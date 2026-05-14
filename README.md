@@ -67,7 +67,7 @@ Building an Akkadian ontology for Named Entity Recognition, Knowledge Base const
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-cambruzzi-5a940b96/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([YOUR_ORCID_LINK_HERE](https://orcid.org/0000-0002-2722-6769))
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]((https://orcid.org/0000-0002-2722-6769))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/valentinacamb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentina.cambruzzi@uibk.ac.at)
 
