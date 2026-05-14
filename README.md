@@ -24,7 +24,7 @@
 
 **Party Members:**
 - 🗡️ **Valentina** (Researcher) - Ancient texts interpreter
-- ⚙️ **F.** (Technical Wizard) - Systems architect  
+- ⚙️ **F.** (Technical Wizard) - Master of Development 
 - 📚 **A.** (Linguist) - Language master
 
 **Quest Objective:**  
