@@ -26,6 +26,7 @@
 Building an Akkadian ontology for Named Entity Recognition, Knowledge Base construction, and semantic annotation of cuneiform texts.
 
 **Affiliation:** 🏛️ University of Innsbruck (UIBK)
+
 **Tools:** Protégé | GraphDB (SPARQL testing) | INCEpTION (text annotation)
 
 
