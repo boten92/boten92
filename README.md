@@ -20,17 +20,13 @@
 
 ---
 
-## 🎲 Current Quest: **Early Stage Funding (University of Innsbruck) Ontology Project**
-
-**Party Members:**
-- 🗡️ **Valentina** (Researcher) - Ancient texts interpreter
-- ⚙️ **F.** (Technical Wizard) - Master of Development 
-- 📚 **A.** (Linguist) - Language master
+## 🎲 Last Quest: **Early Stage Funding (University of Innsbruck) Ontology Project**
 
 **Quest Objective:**  
 Building an Akkadian ontology for Named Entity Recognition, Knowledge Base construction, and semantic annotation of cuneiform texts.
 
 **Affiliation:** 🏛️ University of Innsbruck (UIBK)
+**Tools:** Protégé | GraphDB (SPARQL testing) | INCEpTION (text annotation)
 
 
 ---
@@ -57,7 +53,7 @@ Building an Akkadian ontology for Named Entity Recognition, Knowledge Base const
 
 - 🌱 **Learning:** Data analysis, SQL, NLP techniques
 - ✍️ **Writing:** Academic blog posts for "Der Standard" Austria in the context of Cluster of Excellence "EurAsian Transformations"
-- 💬 **Expertise:** Obsidian workflows, Ancient Near Eastern History, Hellenistic Empires, Seleukid Dynasty
+- 💬 **Expertise:** Obsidian workflows, Ancient Near Eastern History, Hellenistic Empires, Seleucid Dynasty
 - 🌶️ **Fun Fact:** I'm a collector of spicy sauces from around the world!
 
 ---
