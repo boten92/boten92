@@ -1,11 +1,5 @@
 <div align="center">
-
-```
-    🌿                                                               🌿
-       🪴          ⚔️  BETWEEN TABLETS & CODE  ⚔️          🪴
-    🌿                                                               🌿
-```
-
+    
 # 👋 Greetings, Traveler! I'm Valentina
 
 ### 🗺️ *Ancient Historian • Data Adventurer • Language Time Traveler*
